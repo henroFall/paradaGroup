@@ -1,0 +1,128 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.theparadagroup.com" resolutions="1x,2x" timestamp="1638732879131">
+  <folder name="css">
+    <file name="site_global.css" crc="84209122"/>
+    <file name="master_a-master.css" crc="4017406309" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3919011470" ref="index"/>
+    <file name="index.css" crc="3885101009" ref="index"/>
+    <file name="nomq_index.css" crc="4143581869" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3803866407" ref="index"/>
+    <file name="bigstock-teacher-helping-male-pupil-in-109206899.jpg" crc="4126011599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="slide9.jpg" crc="4147990220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small bakery owner940x627.jpg" crc="3824400243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="application-key-visual.jpg" crc="4130597367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blindimg.jpg" crc="4042124819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amc-work-based-training.jpg" crc="339347280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="results_arrows.png" crc="459425154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="results_arrows_2x.png" crc="137258500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thersa_profile.jpg" crc="230001548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thersa_profile_2x.jpg" crc="4073998156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tpglogo.svg" crc="4163559771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tpglogo_poster_.png" crc="401518550" ref="index"/>
+    <file name="tpglogobw.svg" crc="410205889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tpglogobw_poster_.png" crc="3914749255" ref="index"/>
+    <file name="bigstock-teacher-helping-male-pupil-in-109206899-crop-u330618.jpg" crc="4042576752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small bakery owner-crop-u330777.jpg" crc="173381195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="application-key-visual-crop-u330565.jpg" crc="477185260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blindimg-crop-u330671.jpg" crc="3848332643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amc-work-based-training731x409.jpg" crc="4101965655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bigstock-teacher-helping-male-pupil-in-109206899730x487.jpg" crc="4273487226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide9730x342.jpg" crc="145934875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small bakery owner734x491.jpg" crc="339911127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="application-key-visual730x488.jpg" crc="3942332206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blindimg730x487.jpg" crc="527611853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amc-work-based-training320x180.jpg" crc="56406362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bigstock-teacher-helping-male-pupil-in-109206899320x214.jpg" crc="4265286470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide9377x176.jpg" crc="308198065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small bakery owner-crop-u331692.jpg" crc="498198436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="application-key-visual320x214.jpg" crc="229836000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blindimg320x214.jpg" crc="500151020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3985439491" seo="true" mt="1638732780859" redirect="true"/>
+</manifest>
